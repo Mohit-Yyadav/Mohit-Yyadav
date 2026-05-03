@@ -94,12 +94,17 @@ I'm a passionate **MERN Stack Developer** with a hunger for building scalable, r
 
 ## 💼 Experience
 
-```yaml
-role: Software Development Intern
-company: MII Foundation
-duration: Jan 2025 - Apr 2025
-location: Indore, MP
-highlights:
-  - Developed ERP Portal using MERN stack + MySQL for Medi-Caps University
-  - Implemented role-based access control & interactive dashboards
-  - Collaborated with cross-functional teams following industry standards
+### 👨‍💻 Software Development Intern @ MII Foundation
+📅 **Jan 2025 - Apr 2025** | 📍 Indore, MP
+
+```mermaid
+timeline
+    title Internship Journey at MII Foundation
+    Jan 2025 : Onboarding & Requirement Analysis
+             : Understood ERP Portal requirements
+    Feb 2025 : Backend Development
+             : Node.js + Express + MySQL
+    Mar 2025 : Frontend Integration
+             : React.js dashboards & RBAC
+    Apr 2025 : Testing & Deployment
+             : Documentation & Handover
