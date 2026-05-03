@@ -12,7 +12,7 @@
 
 <img align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="coding" />
 
-I'm a passionate **MERN Stack Developer** with a hunger for building scalable, real-world web applications. Currently pursuing my Master's in Computer Applications and actively looking for exciting opportunities.
+I'm a passionate **MERN Stack Developer** with a hunger for building scalable, real-world web applications. Currently Graduate my Master's in Computer Applications and actively looking for exciting opportunities.
 
 - 🎓 **MCA Graduate** @ Medi-Caps University, Indore
 - 🎓 **BCA Graduate** @ Bherulal Patidar Government PG College
