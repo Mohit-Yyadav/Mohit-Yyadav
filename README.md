@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohit+Yadav;MERN+Stack+Developer;Full-Stack+Developer;MCA+Graduate;Intern+%40+MII+Foundation;Open+to+Work+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohit+Yadav;MERN+Stack+Developer;Full-Stack+Developer;MCA+(Pursuing);Intern+%40+MII+Foundation;Open+to+Work+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -14,7 +14,7 @@
 
 I'm a passionate **MERN Stack Developer** with a hunger for building scalable, real-world web applications. Currently pursuing my Master's in Computer Applications and actively looking for exciting opportunities.
 
-- 🎓 **MCA Graduate** @ Medi-Caps University, Indore
+- 🎓 **MCA (Pursuing)** @ Medi-Caps University, Indore
 - 🎓 **BCA Graduate** @ Bherulal Patidar Government PG College
 - 💼 **Software Development Intern** @ MII Foundation (Jan 2025 - Apr 2025)
 - 🔭 Building **production-ready MERN applications**
@@ -108,7 +108,3 @@ timeline
              : React.js dashboards & RBAC
     Apr 2025 : Testing & Deployment
              : Documentation & Handover
-
-
-
-
