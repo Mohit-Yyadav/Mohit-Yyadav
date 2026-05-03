@@ -108,3 +108,25 @@ timeline
              : React.js dashboards & RBAC
     Apr 2025 : Testing & Deployment
              : Documentation & Handover
+
+
+
+---
+
+## 📈 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohit-Yyadav&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&color=00F0FF&line=00F0FF&point=FFFFFF" />
+
+---
+
+## 🎯 What I'm Looking For
+
+```javascript
+const mohitYadav = {
+  status: "Open to Work 🚀",
+  role: "MERN Stack Developer / Full-Stack Developer",
+  experience: "Fresher + Internship Ready",
+  availability: "Immediate Joining",
+  preferences: ["Full-Time", "Internship", "Remote", "Hybrid", "On-site"],
+  contact: "connect2mohityadav@gmail.com"
+};
