@@ -111,22 +111,44 @@ timeline
 
 
 
+## 📋 Add These Final Sections Below
+
+```markdown
 ---
 
-## 📈 Contribution Activity
+## 🎖️ Achievements & Certifications
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohit-Yyadav&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&color=00F0FF&line=00F0FF&point=FFFFFF" />
+| Category | Details |
+|----------|---------|
+| 🏆 **Hackathon** | SIH 2024 Participant |
+| 🎖️ **NCC** | 'B' & 'C' Certificate (2020-2023) |
+| 🤖 **Android Dev** | AICTE Virtual Internship |
+| ☕ **Java** | NPTEL Certification |
+| 💻 **DCA** | Diploma in Computer Applications - MCU |
+| ⚡ **GitHub** | Quickdraw Achievement |
 
 ---
 
-## 🎯 What I'm Looking For
+## 📫 Let's Connect
 
-```javascript
-const mohitYadav = {
-  status: "Open to Work 🚀",
-  role: "MERN Stack Developer / Full-Stack Developer",
-  experience: "Fresher + Internship Ready",
-  availability: "Immediate Joining",
-  preferences: ["Full-Time", "Internship", "Remote", "Hybrid", "On-site"],
-  contact: "connect2mohityadav@gmail.com"
-};
+<div align="center">
+  <a href="https://github.com/Mohit-Yyadav">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ymohit/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:connect2mohityadav@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+---
+
+## 🔥 Weekly Dev Focus
+
+```text
+MERN Stack    ████████████████████░   90%
+JavaScript    ███████████████████░░   85%
+DSA Practice  ███████████████░░░░░░   70%
+System Design ████████████░░░░░░░░░   55%
